@@ -17,8 +17,32 @@ public class Solution24 {
     - print out result to user
      */
 
-    public static void main(String[] args){
+    public static void main(String[] args) {
 
+        //INPUT
+        Scanner input = new Scanner(System.in);
+        System.out.println("Enter two strings and I'll tell you if they are anagrams: ");
+        System.out.println("Enter the first string: ");
+        String phraseOne = input.nextLine();
+        System.out.println("Enter the second string: ");
+        String phraseTwo = input.nextLine();
+
+        //OUTPUT
+        System.out.print("\"" + phraseOne + "\" and \"" + phraseTwo + "\" are" + ((isAnagram(phraseOne, phraseTwo)) ? " " : " NOT ") + "anagrams");
+
+    }
+
+    private static boolean isAnagram(String phraseOne, String phraseTwo) {
+
+        //Convert to char arrays
+        char[] firstSet = phraseOne.toUpperCase().toCharArray();
+        char[] secondSet = phraseTwo.toUpperCase().toCharArray();
+
+        //Sort the arrays
+        Arrays.sort(firstSet);
+        Arrays.sort(secondSet);
+
+        return Arrays.equals(firstSet, secondSet);
     }
 
 }
