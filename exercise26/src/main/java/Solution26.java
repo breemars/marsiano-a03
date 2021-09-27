@@ -5,7 +5,7 @@
 
 import java.util.Scanner;
 
-public class Solution26 extends PaymentCalculator{
+public class Solution26 {
     /*
     Months to pay off a credit card
     - input user balance, apr, and monthly payment
@@ -17,9 +17,20 @@ public class Solution26 extends PaymentCalculator{
 
     public static void main(String[] args) {
 
-        }
+        //INPUT
+        Scanner input = new Scanner(System.in);
+        System.out.print("What is your balance? ");
+        int balance = input.nextInt();
+        System.out.print("What is the APR on the card (as a percent)? ");
+        int dailyRate = input.nextInt();
+        System.out.print("What is the monthly payment you can make? ");
+        int payment = input.nextInt();
 
+        //Create calculator object
+        PaymentCalculator credit = new PaymentCalculator(balance, dailyRate, payment);
 
+        //OUTPUT
+        System.out.printf("It will take you %.0f months to pay off this card.", credit.calculateMonthsUntilPaidOff());
 
-
+    }
 }
