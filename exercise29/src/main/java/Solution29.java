@@ -14,7 +14,25 @@ public class Solution29 {
     - print out total years
     */
     public static void main(String[] args) {
-       
+        //OUTPUT
+        System.out.print("It will take " + getYears() + " years to double your initial investment.");
+    }
+
+    //Returns total years
+    private static int getYears(){
+        Scanner input = new Scanner(System.in);
+        int years;
+        while(true) {
+            try {
+                System.out.print("What is the rate of return? ");
+                int rate = Integer.parseInt(input.next());
+                years = 72 / rate;
+                break;
+            } catch (Exception e) {
+                System.out.println("Sorry. That's not a valid input.");
+            }
+        }
+        return years;
     }
 
 }
