@@ -20,11 +20,11 @@ public class Solution26 {
         //INPUT
         Scanner input = new Scanner(System.in);
         System.out.print("What is your balance? ");
-        int balance = input.nextInt();
+        double balance = input.nextDouble();
         System.out.print("What is the APR on the card (as a percent)? ");
-        int dailyRate = input.nextInt();
+        double dailyRate = input.nextDouble();
         System.out.print("What is the monthly payment you can make? ");
-        int payment = input.nextInt();
+        double payment = input.nextDouble();
 
         //Create calculator object
         PaymentCalculator credit = new PaymentCalculator(balance, dailyRate, payment);
