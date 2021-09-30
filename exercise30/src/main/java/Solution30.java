@@ -3,8 +3,6 @@
  *  Copyright 2021 Breanna Marsiano
  */
 
-import java.util.Scanner;
-
 public class Solution30 {
     /*
     Multiplication Table
