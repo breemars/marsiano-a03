@@ -5,15 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0ae7e773-6e54-4dd1-8298-585e74076e93" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/runConfigurations.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Solution34.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../exercise33/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../exercise33/.idea/gradle.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../exercise33/src/main/java/Solution33.java" beforeDir="false" afterPath="$PROJECT_DIR$/../exercise33/src/main/java/Solution33.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../exercise35/src/main/java/Solution35.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Solution34.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Solution34.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
