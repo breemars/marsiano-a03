@@ -5,16 +5,18 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ec3b2403-7913-4e47-837f-735a6f6dba69" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/runConfigurations.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Solution37.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/passwordGenerator.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../exercise36/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../exercise36/.idea/gradle.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../exercise36/src/main/java/Solution36.java" beforeDir="false" afterPath="$PROJECT_DIR$/../exercise36/src/main/java/Solution36.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../exercise38/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../exercise38/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../exercise38/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../exercise38/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../exercise38/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../exercise38/.idea/runConfigurations.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../exercise38/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../exercise26/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../exercise26/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../exercise26/src/main/java/PaymentCalculator.java" beforeDir="false" afterPath="$PROJECT_DIR$/../exercise26/src/main/java/PaymentCalculator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Solution37.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Solution37.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/passwordGenerator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/passwordGenerator.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />

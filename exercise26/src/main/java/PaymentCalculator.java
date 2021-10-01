@@ -1,3 +1,8 @@
+/*
+ *  UCF COP3330 Fall 2021 Assignment 3 Solutions
+ *  Copyright 2021 Breanna Marsiano
+ */
+
 import java.lang.Math;
 
 public class PaymentCalculator {
