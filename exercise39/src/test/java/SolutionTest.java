@@ -19,5 +19,5 @@ class SolutionTest {
         assertEquals(expected, actual);
     }
 
-    
+
 }

@@ -49,8 +49,8 @@ public class Solution39 {
         System.out.printf("%-20s | %-18s | %-10s\n", "Name",  "Position",  "Separation Date");
         System.out.println("------------------------------------------------------------");
 
-        for (Map<String, String> stringStringMap : list) {
-            System.out.printf("%-20s | %-18s | %-10s\n", stringStringMap.get("first") + " " + stringStringMap.get("last"), stringStringMap.get("position"), stringStringMap.get("date"));
+        for (Map<String, String> map : list) {
+            System.out.printf("%-20s | %-18s | %-10s\n", map.get("first") + " " + map.get("last"), map.get("position"), map.get("date"));
         }
     }
 }
