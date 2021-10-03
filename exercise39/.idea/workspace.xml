@@ -5,13 +5,33 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="93b6732f-bb5e-4939-b546-7c8e59f36b4f" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/../exercise40/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../exercise40/src/main/java/Solution40.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../exercise40/src/test/java/Solution40Test.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Solution39.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Solution39.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/SolutionTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/SolutionTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../exercise24/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../exercise24/src/test/java/Solution24Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../exercise25/src/test/java/Solution25Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../exercise26/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../exercise26/src/test/java/Solution26Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../exercise32/src/test/java/Solution32Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../exercise34/src/test/java/Solution34Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../exercise24/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../exercise24/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../exercise24/src/main/java/Solution24.java" beforeDir="false" afterPath="$PROJECT_DIR$/../exercise24/src/main/java/Solution24.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../exercise25/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../exercise25/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../exercise25/src/main/java/Solution25.java" beforeDir="false" afterPath="$PROJECT_DIR$/../exercise25/src/main/java/Solution25.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../exercise27/src/main/java/Solution27.java" beforeDir="false" afterPath="$PROJECT_DIR$/../exercise27/src/main/java/Solution27.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../exercise28/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../exercise28/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../exercise29/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../exercise29/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../exercise31/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../exercise31/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../exercise32/src/main/java/Solution32.java" beforeDir="false" afterPath="$PROJECT_DIR$/../exercise32/src/main/java/Solution32.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../exercise34/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../exercise34/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../exercise34/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../exercise34/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../exercise34/src/main/java/Solution34.java" beforeDir="false" afterPath="$PROJECT_DIR$/../exercise34/src/main/java/Solution34.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../exercise35/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../exercise35/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../exercise36/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/../exercise36/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../exercise37/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../exercise37/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../exercise37/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../exercise37/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/SolutionTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Solution39Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../exercise40/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../exercise40/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../exercise40/src/main/java/Solution40.java" beforeDir="false" afterPath="$PROJECT_DIR$/../exercise40/src/main/java/Solution40.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../exercise40/src/test/java/Solution40Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/../exercise40/src/test/java/Solution40Test.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -91,7 +111,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
   </component>
-  <component name="RunManager" selected="Gradle.exercise39 [run]">
+  <component name="RunManager" selected="Gradle.exercise39 [test]">
     <configuration name="exercise39 [check]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
       <ExternalSystemSettings>
         <option name="executionName" />
@@ -199,8 +219,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Gradle.exercise39 [run]" />
         <item itemvalue="Gradle.exercise39 [test]" />
+        <item itemvalue="Gradle.exercise39 [run]" />
         <item itemvalue="Gradle.exercise39 [check]" />
         <item itemvalue="Gradle.exercise39 [jar]" />
         <item itemvalue="Gradle.exercise39 [testClasses]" />

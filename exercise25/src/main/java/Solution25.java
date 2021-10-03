@@ -26,7 +26,7 @@ public class Solution25{
         System.out.print("The password '" + password + "' has a" + passwordResult(passwordValidator(password)) + " password strength");
     }
 
-    private static int passwordValidator(String password) {
+    public static int passwordValidator(String password) {
         int numCount = 0, letCount = 0, specialCount = 0;
 
         //Convert to char array for parsing

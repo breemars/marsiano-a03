@@ -41,7 +41,7 @@ public class Solution27 {
     }
 
     //Validation of employee ID
-    private static boolean validateID(String id) {
+    public static boolean validateID(String id) {
         if(id.length() == 7) {
             if (id.toLowerCase().charAt(0) >= 'a' && id.toLowerCase().charAt(0) <= 'z' &&
                     id.toLowerCase().charAt(1) >= 'a' && id.toLowerCase().charAt(1) <= 'z' && id.charAt(2) >= '-') {
@@ -57,7 +57,7 @@ public class Solution27 {
     }
 
     //Validation of ZIP code
-    private static boolean validateZIP(String zip) {
+    public static boolean validateZIP(String zip) {
         if(zip.length() == 5) {
             for (int i = 0; i < zip.length(); i++) {
                 char c = zip.charAt(i);
@@ -70,7 +70,7 @@ public class Solution27 {
     }
 
     //Validate Name
-    private static boolean validateName(String name) {
+    public static boolean validateName(String name) {
         return (name.length() < 2);
     }
 }

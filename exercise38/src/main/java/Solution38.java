@@ -35,7 +35,7 @@ public class Solution38 {
             System.out.print(num + " ");
     }
 
-    private static List<Integer> getList(String listString) {
+    public static List<Integer> getList(String listString) {
         List<Integer> list = new ArrayList<>();
         int x = 0;
 
@@ -70,7 +70,7 @@ public class Solution38 {
 
 
     //Returns even numbers
-    private static List<Integer> filterEvenNumbers(List<Integer> list) {
+    public static List<Integer> filterEvenNumbers(List<Integer> list) {
         List<Integer> evens = new ArrayList<>();
         for (int num : list)
             if (num % 2 == 0)

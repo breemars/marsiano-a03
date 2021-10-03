@@ -39,7 +39,7 @@ public class Solution34 {
     }
 
     //Creates list
-    private static List<String> getList() {
+    public static List<String> getList() {
         List<String> list = new ArrayList<>();
         list.add("Captain America");
         list.add("Iron Man");

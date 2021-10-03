@@ -29,7 +29,7 @@ public class Solution36 {
     }
 
     //Returns standard deviation
-    private static double std(List<Double> list, double average) {
+    public static double std(List<Double> list, double average) {
         double standardDeviation = 0.0;
 
         for(double num: list)
@@ -39,7 +39,7 @@ public class Solution36 {
     }
 
     //Returns maximum
-    private static double max(List<Double> list) {
+    public static double max(List<Double> list) {
         double maximum = list.get(0);
         for(double num : list)
             if(num > maximum)
@@ -48,7 +48,7 @@ public class Solution36 {
     }
 
     //Returns minimum
-    private static double min(List<Double> list) {
+    public static double min(List<Double> list) {
         double minimum = list.get(0);
         for(double num : list)
             if(num < minimum)
@@ -57,7 +57,7 @@ public class Solution36 {
     }
 
     //Returns average
-    private static double average(List<Double> list) {
+    public static double average(List<Double> list) {
         double total = 0;
         for(double num : list)
             total += num;

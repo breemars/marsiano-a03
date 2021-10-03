@@ -67,7 +67,7 @@ public class Solution32 {
     }
 
     //Returns random number based on level
-    private static int getNumber(int level) {
+    public static int getNumber(int level) {
         return switch(level){
             case 1 -> (int)(Math.random() * 10) + 1;
             case 2 -> (int)(Math.random() * 100) + 1;

@@ -32,7 +32,7 @@ public class Solution24 {
 
     }
 
-    private static boolean isAnagram(String phraseOne, String phraseTwo) {
+    public static boolean isAnagram(String phraseOne, String phraseTwo) {
 
         //Convert to char arrays
         char[] firstSet = phraseOne.toUpperCase().toCharArray();
