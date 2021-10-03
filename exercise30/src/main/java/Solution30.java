@@ -7,7 +7,7 @@ public class Solution30 {
     /*
     Multiplication Table
     - Create a function that will print out a multiplication table using printf for spacing
-    - call the function with 1 and 12
+    - Call the function with 1 and 12
     */
     public static void main(String[] args) {
         printTable(1, 12);

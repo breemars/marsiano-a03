@@ -26,7 +26,7 @@ public class Solution33 {
         System.out.print(getNumber());
     }
 
-    //Returns a random response
+    //Returns a random response from 4 options
     private static String getNumber() {
         List<String> list = new ArrayList<>();
         list.add("Yes");
